@@ -17,7 +17,8 @@
     "express": "*",
     "optimist": "*",
     "ws": "*",
-    "cors": "*"
+    "cors": "*",
+    "underscore" : "*"
   },
   "devDependencies": {
     "expect.js": "*",
